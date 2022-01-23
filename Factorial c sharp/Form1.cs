@@ -38,11 +38,5 @@ namespace Factorial_c_sharp
 
             
         }
-
-        private void btnClear_Click(object sender, EventArgs e)
-        {
-            txtnumber.Text = "";
-            lblresult.Text = "";
-        }
     }
 }
